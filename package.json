@@ -1,0 +1,28 @@
+{
+  "name": "fakundo.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish": "echo \"Publishing disabled\" && exit 1",
+    "build": "NODE_ENV=production webpack --config webpack.config.js --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakundo/fakundo.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakundo/fakundo.github.io/issues"
+  },
+  "homepage": "https://github.com/fakundo/fakundo.github.io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^5.3.1",
+    "sitemap-webpack-plugin": "^1.1.0",
+    "webpack": "^5.27.1",
+    "webpack-cli": "^4.5.0"
+  }
+}
