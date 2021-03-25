@@ -14,6 +14,10 @@ const links = [
     href: 'https://github.com/fakundo/valheim-server',
     title: '[Docker Image] Valheim Dedicated Server with Web Interface',
   },
+  {
+    href: 'https://github.com/fakundo/go-middleware',
+    title: 'Middleware for Go functions (for example, for socket.io event handlers)',
+  },
 ]
 
 module.exports = {
