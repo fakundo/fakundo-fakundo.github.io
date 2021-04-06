@@ -16,7 +16,15 @@ const links = [
   },
   {
     href: 'https://github.com/fakundo/go-middleware',
-    title: 'Middleware for Go functions (for example, for socket.io event handlers)',
+    title: 'Middleware for Go functions [useful for socket.io event handlers]',
+  },
+  {
+    href: 'https://fakundo.github.io/preact-transitioning/',
+    title: 'Preact transition components [DEMO]',
+  },
+  {
+    href: 'https://github.com/fakundo/preact-transitioning',
+    title: 'Preact transition components [SOURCE]',
   },
 ]
 
