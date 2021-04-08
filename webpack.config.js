@@ -26,6 +26,10 @@ const links = [
     href: 'https://github.com/fakundo/preact-transitioning',
     title: 'Preact transition components [SOURCE]',
   },
+  {
+    href: 'https://github.com/fakundo/preact-jss-hook',
+    title: 'Preact integration with JSS [SOURCE]',
+  },
 ]
 
 module.exports = {
