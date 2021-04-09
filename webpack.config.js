@@ -27,8 +27,28 @@ const links = [
     title: 'Preact transition components [SOURCE]',
   },
   {
+    href: 'https://www.npmjs.com/package/preact-transitioning',
+    title: 'Preact transition components [NPM PACKAGE]',
+  },
+  {
     href: 'https://github.com/fakundo/preact-jss-hook',
     title: 'Preact integration with JSS [SOURCE]',
+  },
+  {
+    href: 'https://www.npmjs.com/package/preact-jss-hook',
+    title: 'Preact integration with JSS [NPM PACKAGE]',
+  },
+  {
+    href: 'https://github.com/fakundo/react-vld',
+    title: 'Validation for React & Preact components [SOURCE]',
+  },
+  {
+    href: 'https://www.npmjs.com/package/react-vld',
+    title: 'Validation for React components [NPM PACKAGE]',
+  },
+  {
+    href: 'https://www.npmjs.com/package/preact-vld',
+    title: 'Validation for Preact components [NPM PACKAGE]',
   },
 ]
 
