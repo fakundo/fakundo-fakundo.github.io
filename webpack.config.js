@@ -11,44 +11,64 @@ const links = [
     title: 'Escape from Tarkov - [EFT] Interactive Find in Raid Items List',
   },
   {
+    href: 'https://github.com/fakundo/tarkov-raid-items',
+    title: '[SOURCE] Escape from Tarkov - [EFT] Interactive Find in Raid Items List',
+  },
+  {
     href: 'https://github.com/fakundo/valheim-server',
-    title: '[Docker Image] Valheim Dedicated Server with Web Interface',
+    title: '[SOURCE] [Docker Image] Valheim Dedicated Server with Web Interface',
   },
   {
     href: 'https://github.com/fakundo/go-middleware',
-    title: 'Middleware for Go functions [useful for socket.io event handlers]',
+    title: '[SOURCE] Middleware for Go functions, useful for socket.io event handlers',
   },
   {
     href: 'https://fakundo.github.io/preact-transitioning/',
-    title: 'Preact transition components [DEMO]',
+    title: '[DEMO] Preact transition components',
   },
   {
     href: 'https://github.com/fakundo/preact-transitioning',
-    title: 'Preact transition components [SOURCE]',
+    title: '[SOURCE] Preact transition components',
   },
   {
     href: 'https://www.npmjs.com/package/preact-transitioning',
-    title: 'Preact transition components [NPM PACKAGE]',
+    title: '[NPM PACKAGE] Preact transition components',
   },
   {
     href: 'https://github.com/fakundo/preact-jss-hook',
-    title: 'Preact integration with JSS [SOURCE]',
+    title: '[SOURCE] Preact integration with JSS',
   },
   {
     href: 'https://www.npmjs.com/package/preact-jss-hook',
-    title: 'Preact integration with JSS [NPM PACKAGE]',
+    title: '[NPM PACKAGE] Preact integration with JSS',
   },
   {
     href: 'https://github.com/fakundo/react-vld',
-    title: 'Validation for React & Preact components [SOURCE]',
+    title: '[SOURCE] Validation for React & Preact components',
   },
   {
     href: 'https://www.npmjs.com/package/react-vld',
-    title: 'Validation for React components [NPM PACKAGE]',
+    title: '[NPM PACKAGE] Validation for React components',
   },
   {
     href: 'https://www.npmjs.com/package/preact-vld',
-    title: 'Validation for Preact components [NPM PACKAGE]',
+    title: '[NPM PACKAGE] Validation for Preact components',
+  },
+  {
+    href: 'https://fakundo.github.io/react-input-focus/react/',
+    title: '[DEMO] Focus switcher for React & Preact input components',
+  },
+  {
+    href: 'https://github.com/fakundo/react-input-focus',
+    title: '[SOURCE] Focus switcher for React & Preact input components',
+  },
+  {
+    href: 'https://www.npmjs.com/package/react-input-focus',
+    title: '[NPM PACKAGE] Focus switcher for React input components',
+  },
+  {
+    href: 'https://www.npmjs.com/package/preact-input-focus',
+    title: '[NPM PACKAGE] Focus switcher for Preact input components',
   },
 ]
 
