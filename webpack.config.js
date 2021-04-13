@@ -19,7 +19,7 @@ const links = [
     title: '[SOURCE] Valheim Dedicated Server with Web Interface exposed in Docker image',
   },
   {
-    href: 'https://hub.docker.com/repository/docker/fakundo/valheim-server',
+    href: 'https://hub.docker.com/r/fakundo/valheim-server',
     title: '[DOCKER HUB] Valheim Dedicated Server with Web Interface exposed in Docker image',
   },
   {
