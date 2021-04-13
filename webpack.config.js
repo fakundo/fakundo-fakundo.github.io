@@ -16,7 +16,11 @@ const links = [
   },
   {
     href: 'https://github.com/fakundo/valheim-server',
-    title: '[SOURCE] [Docker Image] Valheim Dedicated Server with Web Interface',
+    title: '[SOURCE] Valheim Dedicated Server with Web Interface exposed in Docker image',
+  },
+  {
+    href: 'https://hub.docker.com/repository/docker/fakundo/valheim-server',
+    title: '[DOCKER HUB] Valheim Dedicated Server with Web Interface exposed in Docker image',
   },
   {
     href: 'https://github.com/fakundo/go-middleware',
