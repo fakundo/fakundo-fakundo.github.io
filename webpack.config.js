@@ -74,6 +74,14 @@ const links = [
     href: 'https://www.npmjs.com/package/preact-input-focus',
     title: '[NPM PACKAGE] Focus switcher for Preact input components',
   },
+  {
+    href: 'https://github.com/fakundo/react-redux-getters',
+    title: '[SOURCE] Getters for React and Redux',
+  },
+  {
+    href: 'https://www.npmjs.com/package/react-redux-getters',
+    title: '[NPM PACKAGE] Getters for React and Redux',
+  },
 ]
 
 module.exports = {
