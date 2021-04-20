@@ -82,6 +82,22 @@ const links = [
     href: 'https://www.npmjs.com/package/react-redux-getters',
     title: '[NPM PACKAGE] Getters for React and Redux',
   },
+  {
+    href: 'https://fakundo.github.io/react-localized/',
+    title: '[DEMO] Internationalization for React & Preact components',
+  },
+  {
+    href: 'https://github.com/fakundo/react-localized',
+    title: '[SOURCE] Internationalization for React & Preact components',
+  },
+  {
+    href: 'https://www.npmjs.com/package/react-localized',
+    title: '[NPM PACKAGE] Internationalization for React components',
+  },
+  {
+    href: 'https://www.npmjs.com/package/preact-localized',
+    title: '[NPM PACKAGE] Internationalization for Preact components',
+  },
 ]
 
 module.exports = {
