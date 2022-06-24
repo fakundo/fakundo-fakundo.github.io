@@ -91,4 +91,12 @@ module.exports = [
     href: 'https://www.npmjs.com/package/preact-localized',
     title: '[NPM PACKAGE] Internationalization for Preact components',
   },
+  {
+    href: 'https://fakundo.github.io/webgl-audio/',
+    title: '[DEMO] WebGL audio visualisation experiment',
+  },
+  {
+    href: 'https://github.com/fakundo/webgl-audio',
+    title: '[SOURCE] WebGL audio visualisation experiment',
+  },
 ]
