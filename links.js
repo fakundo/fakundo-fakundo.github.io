@@ -111,4 +111,8 @@ module.exports = [
     href: "https://github.com/fakundo/next-redux-store",
     title: "[SOURCE] Next integration with Redux",
   },
+  {
+    href: "https://github.com/fakundo/next-i18next-ext",
+    title: "[SOURCE] Next integration with i18next",
+  },
 ];
