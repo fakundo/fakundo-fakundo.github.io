@@ -115,4 +115,16 @@ module.exports = [
     href: "https://github.com/fakundo/next-i18next-ext",
     title: "[SOURCE] Next integration with i18next",
   },
+  {
+    href: "https://fakundo.github.io/react-transitioning/",
+    title: "[DOCS] React transition components",
+  },
+  {
+    href: "https://github.com/fakundo/react-transitioning",
+    title: "[SOURCE] React transition components",
+  },
+  {
+    href: "https://www.npmjs.com/package/react-transitioning",
+    title: "[NPM PACKAGE] React transition components",
+  },
 ];
